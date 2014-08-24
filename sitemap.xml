@@ -6,66 +6,94 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://rjtavares.github.io/2013/index.html</loc>
-  <lastmod>2014-08-12</lastmod>
+  <lastmod>2014-08-14</lastmod>
+ </url>
+ <url>
+  <loc>http://rjtavares.github.io/2014/index.html</loc>
+  <lastmod>2014-08-14</lastmod>
  </url>
  <url>
   <loc>http://rjtavares.github.io/archive.html</loc>
-  <lastmod>2014-08-12</lastmod>
+  <lastmod>2014-08-14</lastmod>
  </url>
  <url>
   <loc>http://rjtavares.github.io/categories/index.html</loc>
-  <lastmod>2014-08-12</lastmod>
+  <lastmod>2014-08-14</lastmod>
  </url>
  <url>
   <loc>http://rjtavares.github.io/categories/portugal.html</loc>
-  <lastmod>2014-08-12</lastmod>
+  <lastmod>2014-08-14</lastmod>
  </url>
  <url>
   <loc>http://rjtavares.github.io/categories/reddit.html</loc>
-  <lastmod>2014-08-12</lastmod>
+  <lastmod>2014-08-14</lastmod>
  </url>
  <url>
   <loc>http://rjtavares.github.io/galleries/index.html</loc>
-  <lastmod>2014-08-12</lastmod>
+  <lastmod>2014-08-14</lastmod>
  </url>
  <url>
   <loc>http://rjtavares.github.io/index.html</loc>
-  <lastmod>2014-08-12</lastmod>
+  <lastmod>2014-08-14</lastmod>
  </url>
  <url>
   <loc>http://rjtavares.github.io/listings/index.html</loc>
-  <lastmod>2014-08-12</lastmod>
+  <lastmod>2014-08-14</lastmod>
+ </url>
+ <url>
+  <loc>http://rjtavares.github.io/posts/new-notebook-2.html</loc>
+  <lastmod>2014-08-14</lastmod>
+ </url>
+ <url>
+  <loc>http://rjtavares.github.io/posts/new-notebook-3.html</loc>
+  <lastmod>2014-08-14</lastmod>
+ </url>
+ <url>
+  <loc>http://rjtavares.github.io/posts/new-notebook.html</loc>
+  <lastmod>2014-08-14</lastmod>
  </url>
  <url>
   <loc>http://rjtavares.github.io/pt_br/2013/index.html</loc>
-  <lastmod>2014-08-12</lastmod>
+  <lastmod>2014-08-14</lastmod>
+ </url>
+ <url>
+  <loc>http://rjtavares.github.io/pt_br/2014/index.html</loc>
+  <lastmod>2014-08-14</lastmod>
  </url>
  <url>
   <loc>http://rjtavares.github.io/pt_br/archive.html</loc>
-  <lastmod>2014-08-12</lastmod>
+  <lastmod>2014-08-14</lastmod>
  </url>
  <url>
   <loc>http://rjtavares.github.io/pt_br/categories/index.html</loc>
-  <lastmod>2014-08-12</lastmod>
+  <lastmod>2014-08-14</lastmod>
  </url>
  <url>
   <loc>http://rjtavares.github.io/pt_br/categories/portugal.html</loc>
-  <lastmod>2014-08-12</lastmod>
+  <lastmod>2014-08-14</lastmod>
  </url>
  <url>
   <loc>http://rjtavares.github.io/pt_br/categories/reddit.html</loc>
-  <lastmod>2014-08-12</lastmod>
+  <lastmod>2014-08-14</lastmod>
  </url>
  <url>
   <loc>http://rjtavares.github.io/pt_br/galleries/index.html</loc>
-  <lastmod>2014-08-12</lastmod>
+  <lastmod>2014-08-14</lastmod>
  </url>
  <url>
   <loc>http://rjtavares.github.io/pt_br/index.html</loc>
-  <lastmod>2014-08-12</lastmod>
+  <lastmod>2014-08-14</lastmod>
  </url>
  <url>
   <loc>http://rjtavares.github.io/pt_br/posts/depressao-nacional-vista-no-reddit.html</loc>
-  <lastmod>2014-08-12</lastmod>
+  <lastmod>2014-08-14</lastmod>
+ </url>
+ <url>
+  <loc>http://rjtavares.github.io/pt_br/stories/list-of-notebooks.html</loc>
+  <lastmod>2014-08-14</lastmod>
+ </url>
+ <url>
+  <loc>http://rjtavares.github.io/stories/list-of-notebooks.html</loc>
+  <lastmod>2014-08-14</lastmod>
  </url>
 </urlset>

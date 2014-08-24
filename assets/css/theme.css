@@ -4,7 +4,7 @@ body {
 
 #container {
     width: 960px;
-    margin: 0 auto;
+	margin: 0 auto;
 }
 
 #contentcolumn {
@@ -20,7 +20,7 @@ img {
 
 .postbox {
     border-bottom: 2px solid darkgrey;
-    margin-bottom: 12px;
+	margin-bottom: 12px;
 }
 
 .titlebox {
@@ -28,7 +28,7 @@ img {
 }
 
 #addthisbox {margin-bottom: 12px;}
-
+	
 td.label {
     /* Issue #290 */
     background-color: inherit;
@@ -89,7 +89,12 @@ pre, pre code {
 
 article.post-micro {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 1.5em;
+    font-size: 1.2em;
+}
+
+article.post-link {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2em;
 }
 
 /* fix anchors for headers */
@@ -140,7 +145,7 @@ h4, h5, h6 {
 
 .metadata p:before,
 .postlist .listdate:before {
-    content: " — ";
+    content: " - ";
 }
 
 .metadata p:first-of-type:before {
@@ -149,6 +154,11 @@ h4, h5, h6 {
 
 .metadata p {
     display: inline;
+}
+ 
+.metadata {
+    margin-bottom: 12px;
+	font-size: 0.8em;
 }
 
 .posttranslations h3 {
